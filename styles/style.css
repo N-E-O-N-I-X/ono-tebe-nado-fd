@@ -250,7 +250,6 @@
 .footer {
   display: grid;
   grid-template-columns: 3fr 3fr 1fr;
-  justify-content: center;
   margin: 0 50px 82px;
 }
 
