@@ -2,7 +2,7 @@
     <img src="https://github.com/N-E-O-N-I-X/ono-tebe-nado-fd/blob/main/images/logo-white.svg" width="200" height="200"/>
 </a>
 
-# Проект первого спринта
+## Проект первого спринта
 ## :baby_chick:
 
 _______
